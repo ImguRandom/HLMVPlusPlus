@@ -44,3 +44,18 @@ List of commands:
 ->  Given a list of variable names, it goes through them and sets them on all the materials in the model
 "ReplaceMaterials" { "<material name>" "<replacement material name>" ... }
 ->  Goes through the list and replaces the materials in the model with the corresponding one
+"SetSky" "<sky name>" 
+-> Sets the 2D skybox to use the sky specified. Accepts sky names like "sky_tf2" and such from the Valve Dev Wiki
+"SetAmbientColor" "<r> <g> <b>"
+-> Set the ambient lighting color.
+
+-> The following entries are for setting scene lighting through the Lights panel
+-> All entries below can be duplicated up to 4 times to allow control of up to all 4 of the light sources available
+-> The i parameter accepts values from 0 to 3, which determine which of the 4 light sources you are setting the values for
+"SetLightType" "<index> <i>"
+-> index parameter accepts values from 0 to 3, where 0 is disabled, 1 is Point light, 2 is Directional light and 3 is Spot light.
+"SetLightPosition" "<x> <y> <z> <i>"
+-> Sets the light position of the specified light.
+"SetLightAngles" "<x> <y> <z> <i>"
+"SetLightColor" "<r> <g> <b> <i>"
+"SetLightCone" "<inner> <outer> <i>"
