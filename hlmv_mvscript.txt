@@ -47,9 +47,12 @@ List of commands:
 -> All entries below can be duplicated up to 4 times to allow control of up to all 4 of the light sources available
 -> The i parameter accepts values from 0 to 3, which determine which of the 4 light sources you are setting the values for
 "SetLightType" "<index> <i>"
--> index parameter accepts values from 0 to 3, where 0 is disabled, 1 is Point light, 2 is Directional light and 3 is Spot light.
+-> index parameter accepts values from 0 to 3, where 0 is disabled, 1 is Point light, 2 is Directional light and 3 is Spot light
 "SetLightPosition" "<x> <y> <z> <i>"
--> Sets the light position of the specified light.
+-> Sets the light position of the specified light source
 "SetLightAngles" "<x> <y> <z> <i>"
+-> Set the rotation of the specified light source
 "SetLightColor" "<r> <g> <b> <i>"
+-> Set the color of the specified light source
 "SetLightCone" "<inner> <outer> <i>"
+-> Set the cone size of the specified light source
