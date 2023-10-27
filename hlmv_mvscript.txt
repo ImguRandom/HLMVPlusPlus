@@ -14,19 +14,13 @@ List of commands:
 -> Loads a merged model onto the current model
 "SetAppWindowSize" "<width> <height>"
 -> Sets the size of the HLMV window
-"SetCameraOrigin" "<X> <Y> <Z>"
+"SetCameraOrigin" "<x> <y> <z>"
 -> Sets the position of the camera
-"SetCameraAngles" "<X> <Y> <Z>"
+"SetCameraAngles" "<x> <y> <z>"
 -> Sets the rotation of the camera
-"SetLightAngles" "<X> <Y> <Z>"
--> Sets the rotation of the global light
-"SetLightColor" "<X> <Y> <Z>"
--> Sets the color of the global light
-"SetAmbientColor" "<X> <Y> <Z>"
--> Sets the color of the ambient light
 "SetRenderMode" "<index>"
 -> Sets the special rendering mode (Wireframe, textured... etc)
-"SetBGColor" "<X> <Y> <Z>"
+"SetBGColor" "<r> <g> <b>"
 -> Sets the color of the background
 "Screenshot" "<name>"
 -> Takes a screenshot with the given name. If the name is set to "modelname", the .tga will be saved with the model's filename
