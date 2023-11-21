@@ -1,5 +1,5 @@
 # [HLMV++](https://developer.valvesoftware.com/wiki/HLMV%2B%2B)
-**HLMV++** *(Half-Life Model Viewer++)* is a new build of HLMV created by ficool2. The goal is the same as [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), to fix long-standing bugs in HLMV and add new features and functionality to make the program better to use, whether you're doing model renders for artwork or for wiki articles.
+**HLMV++** *(Half-Life Model Viewer++)* is a new build of HLMV created by ficool2. The goal is the same as **[Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/)**, to fix long-standing bugs in HLMV and add new features and functionality to make the program better to use, whether you're doing model renders for artwork or for wiki articles.
 
 Want more information on why you should try HLMV++? Check out **[this GameBanana blog post by user Tunnel](https://gamebanana.com/blogs/20066)**! Major thanks to Tunnel for writing that lovely blog post ❤️
 
@@ -11,12 +11,12 @@ Want more information on why you should try HLMV++? Check out **[this GameBanana
   - Wiki is currently under construction.
 
 # Source Code?
-**HLMV++, like ficool2's other project, [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), is closed source. Due to ficool2 being a licensed Source Engine developer, the source code for HLMV++ cannot legally be released.**
+**HLMV++, like ficool2's other project, **[Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/)**, is closed source. Due to ficool2 being a licensed Source Engine developer, the source code for HLMV++ cannot legally be released.**
 
 # Supported Games
 - Team Fortress 2
   - Can also work with the various Team Fortress 2 Source mods like TF2Classic, Pre-Fortress 2, Open Fortress and Team Deathmatch Classic.
-  - [Follow this guide on setting up HLMV for Pre-Fortress 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2784234957), but instead of creating a shortcut for hlmv.exe, create it for hlmvplusplus.exe. Then add the -game parameter to the Target field of the shortcut as normal and point it to whichever mod's directory. If you have issues with this, please join the HLMV++ Discord and we can assist you further. 
+  - **[Follow this guide on setting up HLMV for Pre-Fortress 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2784234957)**, but instead of creating a shortcut for hlmv.exe, create it for hlmvplusplus.exe. Then add the -game parameter to the Target field of the shortcut as normal and point it to whichever mod's directory. If you have issues with this, please join the HLMV++ Discord and we can assist you further. 
 - Left 4 Dead 2
 - Garry's Mod
 
