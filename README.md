@@ -7,7 +7,7 @@ Want more information on why you should try HLMV++? Check out **[this GameBanana
 - Interested in making those fancy 3D rotateable model renders for the Official Team Fortress 2 Wiki with HLMV++? **[Check out 3D Models Automaton by @jbzdarkid](https://github.com/jbzdarkid/3D-Models-automaton)!**
 - **[Click here](https://discord.gg/pB86MBCzkd)** to join the HLMV++ Discord server where you can report bugs and suggest new features.
 - Follow us on Twitter at **[@HLMVPlusPlus](https://twitter.com/HLMVPlusPlus)** for new release announcements and sneak peeks of new features.
-- We also have an article on the Valve Developer Wiki: **[HLMV++](https://developer.valvesoftware.com/wiki/HLMV%2B%2B)**.
+- We also have an article on the Valve Developer Community Wiki: **[HLMV++](https://developer.valvesoftware.com/wiki/HLMV%2B%2B)**.
 - There is also now a proper **[Wiki](https://github.com/ImguRandom/HLMVPlusPlus/wiki)** for this repo.
   - Wiki is currently under construction.
 
